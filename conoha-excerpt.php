@@ -34,7 +34,7 @@ class ConohaExcerpt {
     const UNITY_H = '64px';
     private $icon;
 
-    const CHARA = self::CHARA;
+    const CHARA = self::CONOHA;
     const CHARA_HIGHT = self::CONOHA_H;
 
     /**
