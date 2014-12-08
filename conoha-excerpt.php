@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: ConoHa excerpt
-Plugin URI: http://qiita.com/kimama1997/item/dummy_uri
+Plugin URI: http://qiita.com/kimama1997/items/608672328f92901576c8
 Description: 記事の先頭でこのはちゃんが抜粋を読み上げてくれます。
 Version: 1.0
 Author: hinaloe
