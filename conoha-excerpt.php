@@ -7,7 +7,7 @@ Description: 記事の先頭でこのはちゃんが抜粋を読み上げてく�
 Version: 1.0
 Author: hinaloe
 Author URI: http://blog.hinaloe.net/
-License: MIT
+License: GPL3+
 */
 
 if(!defined("ABSPATH"))exit();
